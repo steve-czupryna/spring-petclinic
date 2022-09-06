@@ -7,6 +7,11 @@
       <protocol>http</protocol>
       <host>contractorproxywest.northgrum.com</host>
       <port>80</port>
+      <id>devnet-proxy</id>
+      <active>true</active>
+      <protocol>https</protocol>
+      <host>contractorproxywest.northgrum.com</host>
+      <port>80</port>
     </proxy>
   </proxies>
 </settings>
