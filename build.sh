@@ -1,2 +1,3 @@
 #! /bin/bash
-mvn -s ./settings.xml test
+cd spring-petclinic
+mvn -s settings.xml test
